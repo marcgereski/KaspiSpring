@@ -1,0 +1,21 @@
+spring.resources.chain.enabled: true
+
+security:
+  oauth2:
+    client:
+      clientId: 147831215911-kd36i2l2hp3r9ovaa08fk93hir7eq0fh.apps.googleusercontent.com
+      clientSecret: aMBMaCUh_uVCTbzxCohJazyw
+      accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+      authenticationScheme: query
+      redirectUri: http://localhost:8080
+      scope:
+            - email
+            - profile
+    resource:
+      userInfoUri: https://www.googleapis.com/oauth2/v2/userinfo
+  basic:
+    enabled: false
+
+resolver.view.prefix: WEB-INF/pages/
+resolver.view.suffix: .jsp
