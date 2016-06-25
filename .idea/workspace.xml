@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec32e3d-878a-490f-a35b-7fc95e7355ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KaspiSpring.iml" afterPath="$PROJECT_DIR$/KaspiSpring.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/KaspiSpring_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/KaspiSpring_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_security_spring_security_taglibs_4_1_0_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_0_4_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_aop_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_aspects_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_beans_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_context_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_core_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_expression_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_jdbc_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_orm_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_test_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_tx_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_web_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_2_6_RELEASE.xml" />
-      <change type="MOVED" beforePath="F:\Projects\Spring\KaspiSpring\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_6_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -214,6 +197,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.KaspiSpringApplication">
     <configuration default="false" name="KaspiSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -388,6 +373,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed pom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
