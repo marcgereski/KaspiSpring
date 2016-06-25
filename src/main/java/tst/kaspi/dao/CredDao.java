@@ -9,7 +9,7 @@ import javax.annotation.Resource;
 
 
 @Repository
-public class CredDoa {
+public class CredDao {
     @Resource(name = "sessionFactory")
     private SessionFactory sessionFactory;
 
