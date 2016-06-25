@@ -23,7 +23,11 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes />
+    <loaded-nodes>
+      <connection connection-id="2d85673a-c806-41ec-b9e4-8d4848c71e4a">
+        <schema name="stuff" object-types="column, table, view" />
+      </connection>
+    </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="2d85673a-c806-41ec-b9e4-8d4848c71e4a">
@@ -35,6 +39,7 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/data/create.sql" connection-id="2d85673a-c806-41ec-b9e4-8d4848c71e4a" current-schema="stuff" />
+    <mapping file-url="file://$PROJECT_DIR$/data/roles.sql" connection-id="2d85673a-c806-41ec-b9e4-8d4848c71e4a" current-schema="stuff" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
